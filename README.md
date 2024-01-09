@@ -1,7 +1,6 @@
 # Projekat: Planiranje Putovanja Javnim Gradskim Prevozom
 Ovaj projekat predstavlja program za planiranje putovanja javnim gradskim prevozom od zadate početne do krajnje lokacije. Program koristi zadate koordinate, spisak linija gradskog prevoza i vrši obradu kako bi pronašao optimalnu putanju za putnika.
 
----
 
 ## Korišćenje programa
 ### Unos podataka:
@@ -43,8 +42,6 @@ Izgled izlazne datoteke:
 ### Izuzeci:
 
 Program je dizajniran da obradi moguće izuzetke koji mogu nastati prilikom rada, kao što su nekorektni podaci ili nepostojeće datoteke.
-
----
 
 ## Credits
 Svi podaci o lokacijama stajališta, kao i ideja i test primeri koji su korišćeni u ovom projektu preuzeti su od Elektrotehničkog fakulteta Univerziteta u Beogradu.
